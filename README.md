@@ -1,20 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>반현랑</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>반현랑</td>
+          <td>백용진</td>
+          <td>백용진</td>
+          <td>백용진</td>
+          <td>백용진</td>
+          <td>백용진</td>
         </tr>
         <tr>
-          <td>반현랑</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>반현랑</td>
-        </tr>
-      </tbody>
+          <td>백용진</td>
+          <td>백용진</td>
+          <td>백용진</td>
+          <td>백용진</td>
+          <td>백용진</td>
 </table>
 
 ## 땅따먹기 게임
