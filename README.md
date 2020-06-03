@@ -1,18 +1,20 @@
 <table>
       <tbody>
         <tr>
-          <td>양희연</td>
-          <td>양희연</td>
-          <td>양희연</td>
-          <td>양희연</td>
-          <td>양희연</td>
+          <td>한국</td>
+          <td>한국</td>
+          <td>한국</td>
+          <td>한국</td>
+          <td>한국</td>
         </tr>
         <tr>
-          <td>양희연</td>
-          <td>양희연</td>
-          <td>양희연</td>
-          <td>양희연</td>
-          <td>양희연</td>
+          <td>한국</td>
+          <td>한국</td>
+          <td>한국</td>
+          <td>한국</td>
+          <td>한국</td>
+        </tr>
+      </tbody>
 </table>
 
 ## 땅따먹기 게임
