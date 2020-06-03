@@ -1,7 +1,6 @@
 <table>
       <tbody>
         <tr>
-<<<<<<< HEAD
           <td>한국</td>
           <td>한국</td>
           <td>한국</td>
