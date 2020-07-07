@@ -1,28 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>박상영</td>
-          <td>박상영</td>
-          <td>박상영</td>
-          <td>박상영</td>
-          <td>박상영</td>
-          <td>박창수</td>
-          <td>박창수</td>
-          <td>박창수</td>
-          <td>박창수</td>
-          <td>박창수</td>
+          <td>jjj</td>
+          <td>jjj</td>
+          <td>jjj</td>
+          <td>jjj</td>
+          <td>jjj</td>
         </tr>
         <tr>
-          <td>박상영</td>
-          <td>박상영</td>
-          <td>박상영</td>
-          <td>박상영</td>
-          <td>박상영</td>
-          <td>박창수</td>
-          <td>박창수</td>
-          <td>박창수</td>
-          <td>박창수</td>
-          <td>박창수</td>
+          <td>jjj</td>
+          <td>jjj</td>
+          <td>jjj</td>
+          <td>jjj</td>
+          <td>jjj</td>
         </tr>
       </tbody>
 </table>
